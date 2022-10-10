@@ -11,5 +11,6 @@ Siri can be used to trigger the Shortcut which means it can open the curtain for
 
 
 ***Thingiverse link*** https://www.thingiverse.com/thing:5558116/files
+***Demonstration*** https://youtu.be/BDftTiS55iw
 
 Finished Date: 27 April 2022
